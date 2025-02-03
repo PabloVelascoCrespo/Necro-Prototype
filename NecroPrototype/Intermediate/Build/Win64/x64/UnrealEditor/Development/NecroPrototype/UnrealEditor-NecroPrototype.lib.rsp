@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NecroPrototype.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.cpp.obj"
+"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\Grid.cpp.obj"
+"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\Default.rc2.res"
+/OUT:"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\UnrealEditor-NecroPrototype.lib"

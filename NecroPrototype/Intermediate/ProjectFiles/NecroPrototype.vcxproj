@@ -252,10 +252,15 @@
     <None Include="..\..\NecroPrototype.uproject"/>
     <None Include="..\..\Source\NecroPrototype.Target.cs"/>
     <None Include="..\..\Source\NecroPrototypeEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <ClCompile Include="..\..\Source\NecroPrototype\Grid.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NecroPrototype\Grid.h"/>
     <None Include="..\..\Source\NecroPrototype\NecroPrototype.Build.cs"/>
     <ClCompile Include="..\..\Source\NecroPrototype\NecroPrototype.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
