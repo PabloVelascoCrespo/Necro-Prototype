@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\pablo.velasco\\OneDrive - U-tad\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototype\\NecroPrototype.Build.cs",
-		"C:\\Users\\pablo.velasco\\OneDrive - U-tad\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototype.Target.cs",
-		"C:\\Users\\pablo.velasco\\OneDrive - U-tad\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototypeEditor.Target.cs"
+		"C:\\Users\\pablo\\Documents\\Unreal Projects\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototype\\NecroPrototype.Build.cs",
+		"C:\\Users\\pablo\\Documents\\Unreal Projects\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototype.Target.cs",
+		"C:\\Users\\pablo\\Documents\\Unreal Projects\\Necro-Prototype\\NecroPrototype\\Source\\NecroPrototypeEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

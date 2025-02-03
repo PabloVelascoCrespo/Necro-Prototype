@@ -1,11 +1,11 @@
-"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Source\NecroPrototype\NecroPrototype.cpp"
-/FI"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\Definitions.NecroPrototype.h"
-/Yu"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.cpp.obj"
-/sourceDependencies "C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.cpp.dep.json"
-@"C:\Users\pablo.velasco\OneDrive - U-tad\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.Shared.rsp"
+"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Source\NecroPrototype\NecroPrototype.cpp"
+/FI"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\Definitions.NecroPrototype.h"
+/Yu"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\NecroPrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.cpp.obj"
+/sourceDependencies "C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.cpp.dep.json"
+@"C:\Users\pablo\Documents\Unreal Projects\Necro-Prototype\NecroPrototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\NecroPrototype\NecroPrototype.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
