@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+NecroPrototype/Binaries/Win64/NecroPrototypeEditor.target
+NecroPrototype/Binaries/Win64/UnrealEditor.modules
+NecroPrototype/Binaries/Win64/UnrealEditor-NecroPrototype.pdb
