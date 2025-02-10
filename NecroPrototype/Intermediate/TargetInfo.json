@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NecroPrototype",
+			"Path": "..\\Source\\NecroPrototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NecroPrototypeEditor",
+			"Path": "..\\Source\\NecroPrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
